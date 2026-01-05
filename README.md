@@ -1,6 +1,6 @@
 # Problem Statement 3: AI-Powered Form Filling Assistant for Indian Citizen Services
 
-An **AI-powered form-filling assistant** web app was developed under the Intel Unnati Industrial Training Program 2025.
+An **AI-powered form-filling assistant** web app **IVAN AI (Indic-Vision-ASR-NER AI)** was developed under the Intel Unnati Industrial Training Program 2025.
 
 ## The Accessibility Gap in Digital Governance
 Government paperwork in India often becomes difficult for many citizens because of:
