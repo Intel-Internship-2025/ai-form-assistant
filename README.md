@@ -22,7 +22,7 @@ To address this, IVAN AI implements a **multimodal pipeline** that accepts three
 
 OCR and ASR components extract raw text, a translation module normalizes multilingual/code-mixed content into a simpler text space, and a NER module identifies key entities such as names, addresses, IDs and dates, which are then auto-mapped to corresponding government form fields.
 
-The template of the proformas are attached in this repository [`Forms of the project.pdf`]
+The template of the proformas are attached here: [Project Form Templates]
 
 The system is implemented in Python using OCR, ASR, machine translation and NER models. SQLite is used as the backend database for user accounts, sessions and form data. Overall, the project explores how multilingual, multimodal AI can make Indian e-governance more accessible by automating large parts of the form-filling workflow for everyday users.
 
