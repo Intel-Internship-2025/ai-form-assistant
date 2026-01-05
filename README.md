@@ -2,8 +2,7 @@
 
 An **AI-powered form-filling assistant** web app was developed under the Intel Unnati Industrial Training Program 2025.
 
-## Problem faced by Indian citizens
-
+## The Accessibility Gap in Digital Governance
 Government paperwork in India often becomes difficult for many citizens because of:
 
 - Long and complex form formats  
