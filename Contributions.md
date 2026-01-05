@@ -14,6 +14,7 @@ This project was developed collaboratively by three team members of Team GenAI-2
 - **Automatic Speech Recognition (ASR)**
   - Integrated OpenAI Whisper model for speech-to-text conversion
   - Optimized ASR pipeline for Indian language audio inputs
+    
 - **Dataset Development**
   - Created and annotated datasets for NER
   - Developed test datasets for model evaluation
@@ -36,15 +37,14 @@ This project was developed collaboratively by three team members of Team GenAI-2
 - **Named Entity Recognition (NER)**
   - Fine-tuned RoBERTa/BERT models for multilingual NER
   - Entity extraction for Indian government forms
-  - Handled code-mixed text processing
     
 - **Dataset Development**
   - Created and annotated datasets for NER
   - Developed test datasets for model evaluation
     
-- **Backend Architecture Planning**
-  - Designed overall backend system architecture
-  - Coordinated integration between different modules
+- **Web Application Development (Backend)**
+  - Developed backend infrastructure and API endpoints
+  - Integrated frontend with backend services
 
 - **Database Design**
   - Collaborated on database schema design
@@ -56,27 +56,23 @@ This project was developed collaboratively by three team members of Team GenAI-2
 
 - **Web Application Prototype**
   - Contributed to prototype development
-  - Module integration and end-to-end testing
 
 ---
 
 ## 👤 Tanya Shaw
 
 ### Core Responsibilities
-- **Web Application Development (UI & Backend)**
+- **Web Application Development (UI)**
   - Designed and implemented the complete user interface for the form-filling assistant
-  - Developed backend infrastructure and API endpoints
-  - Integrated frontend with backend services
 
-- **Dataset Annotation**
+- **Dataset Development**
  - Created and annotated datasets for NER
 
 - **Database Design**
   - Collaborated on database schema design
 
 - **Web Application Prototype**
-  - Created functional prototype demonstrating end-to-end workflow
-  - Testing and debugging
+    - Contributed to prototype development
 
 ---
 
