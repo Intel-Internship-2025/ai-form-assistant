@@ -1,1 +1,3 @@
-This folder contains the Presentation and Report of the project.
+# Project Documentations
+
+This folder contains the documented details of the project, containing the Project Presentation and the Project Report.
