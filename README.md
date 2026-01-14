@@ -99,5 +99,5 @@ The web application follows a simple, user-friendly flow for accessing AI-assist
    - After verifying the auto-filled details on the preview page, the user submits the form, creating a new submission record in the system.  
    - From the User Home, the "User" dropdown provides access to the Submission History page, which lists all past submissions with date and time and offers Download Details for each in PDF form, along with a Home button to return to the User Home page.
   
-The detailed description of the IVAN AI framwwork and the GovAI-Sub web app have been provided in the Project Report and Project Presentation (here)[Project Documentation], and the practical preview of both the systems are available (here)[Source Code Recordings].
+The detailed description of the IVAN AI framwwork and the GovAI-Sub web app have been provided in the Project Report and Project Presentation (here)[], and the practical preview of both the systems are available (here)[./Source%20Code%20Recordings/].
 
