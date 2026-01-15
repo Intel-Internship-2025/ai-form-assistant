@@ -7,9 +7,9 @@ This project was developed collaboratively by three team members of Team GenAI-2
 ## 👤 Satakshi Poddar
 
 ### Core Responsibilities
-- **Problem Area and Requiremnet Analysis**
+- **Problem Area and Requirement Analysis**
   - Studied and analyzed the problem domain in terms of real world standards
-  - Analyzed the key requirements for a Form-Automation System asper market standards
+  - Analyzed the key requirements for a Form-Automation System as per market standards
      
 - **Translation Module Development**
   - Implemented customized NLLB-200 and PolyGlot based multilingual translation algorithm
@@ -29,8 +29,8 @@ This project was developed collaboratively by three team members of Team GenAI-2
 
 ### Core Responsibilities
 - **Project Planning**
-  - Planned the entire Project AI workflow from Prototyping to Testing
-  - Planned the entire Web Application workflow from Prototyping to Database to Development
+  - Planned the entire Project's AI workflow from Prototyping to Testing
+  - Planned the entire Project's Web Application workflow from Prototyping to Development
     
 - **Optical Character Recognition (OCR)**
   - Integrated OCR capabilities for form field extraction
@@ -44,9 +44,6 @@ This project was developed collaboratively by three team members of Team GenAI-2
   - Performed Model Selection for Pipeline Designing
   - Developed the Document Processing Pipeline (OCR-Translator-NER Pipeline)
   - Developed the Voice Modality Pipeline (ASR-Translator Pipeline)
-    
-- **Dataset Development**
-  - Created and annotated datasets for NER
     
 - **Web Application Development (Backend)**
   - Developed backend infrastructure and API endpoints
