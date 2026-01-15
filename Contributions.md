@@ -7,8 +7,12 @@ This project was developed collaboratively by three team members of Team GenAI-2
 ## 👤 Satakshi Poddar
 
 ### Core Responsibilities
+- **Problem Area and Requiremnet Analysis**
+  - Studied and analyzed the problem domain in terms of real world standards
+  - Analyzed the key requirements for a Form-Automation System asper market standards
+     
 - **Translation Module Development**
-  - Implemented NLLB-200 based multilingual translation system
+  - Implemented customized NLLB-200 and PolyGlot based multilingual translation algorithm
   - Handled code-mixed language processing
 
 - **Automatic Speech Recognition (ASR)**
@@ -19,43 +23,39 @@ This project was developed collaboratively by three team members of Team GenAI-2
   - Created and annotated datasets for NER
   - Developed test datasets for model evaluation
 
-- **Database Design**
-  - Architected database schema for storing user data and form responses
-
-- **Web Application Prototype**
-  - Contributed to prototype development and integration
-
 ---
 
 ## 👤 Priyal Banerjee
 
 ### Core Responsibilities
+- **Project Planning**
+  - Planned the entire Project AI workflow from Prototyping to Testing
+  - Planned the entire Web Application workflow from Prototyping to Database to Development
+    
 - **Optical Character Recognition (OCR)**
-  - Implemented document image processing pipeline
   - Integrated OCR capabilities for form field extraction
+  - Optimized OCR Module by designing Hybrid Algorithms 
 
 - **Named Entity Recognition (NER)**
-  - Fine-tuned RoBERTa/BERT models for multilingual NER
-  - Entity extraction for Indian government forms
+  - Fine-tuned BERT models for English-text centric NER
+  - Designed NER Model Architecture for BERT-Doc-NER and BERT-Doc-NER-Max
+
+- **Pipeline Designing**
+  - Performed Model Selection for Pipeline Designing
+  - Developed the Document Processing Pipeline (OCR-Translator-NER Pipeline)
+  - Developed the Voice Modality Pipeline (ASR-Translator Pipeline)
     
 - **Dataset Development**
   - Created and annotated datasets for NER
-  - Developed test datasets for model evaluation
     
 - **Web Application Development (Backend)**
   - Developed backend infrastructure and API endpoints
   - Integrated frontend with backend services
 
-- **Database Design**
-  - Collaborated on database schema design
-
 - **Testing & Quality Assurance**
   - Conducted component testing for individual modules
   - Performed integration testing across system components
   - Ensured system reliability and performance benchmarking
-
-- **Web Application Prototype**
-  - Contributed to prototype development
 
 ---
 
@@ -63,16 +63,14 @@ This project was developed collaboratively by three team members of Team GenAI-2
 
 ### Core Responsibilities
 - **Web Application Development (UI)**
-  - Designed and implemented the complete user interface for the form-filling assistant
+  - Designed and implemented the complete user interface (frontend) for the form-filling assistant
 
 - **Dataset Development**
  - Created and annotated datasets for NER
 
-- **Database Design**
-  - Collaborated on database schema design
-
-- **Web Application Prototype**
-    - Contributed to prototype development
+- **Research Survey**
+  - Performed the Survey of previous Research Works in the domain to validate the project novelties
+  - Helped plan what is not there and what is needed in modern Form-Automation Systems 
 
 ---
 
